@@ -18,7 +18,7 @@ $ source env/bin/activate
 ```
 Para executar o aplicativo:
 ```bash
-$ streamlit run main.py
+$ streamlit run app.py
 ```
 
 Caso escolha docker:
