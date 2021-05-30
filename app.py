@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+from pages.student import student
+
 def main():
 	"""BATALHA DE DADOS"""
 
@@ -16,7 +18,8 @@ def main():
 		st.subheader("Seção do Estudante")
 		
 		if st.sidebar.checkbox("Estudante"):
-			st.subheader("Desafio do Estudante")			
+			st.subheader("Desafio do Estudante")	
+			student()		
 
 	elif choice == "Professor(a)":
 		st.subheader("Seção do(a) Professor(a)")
