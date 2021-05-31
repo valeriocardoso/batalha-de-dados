@@ -1,0 +1,93 @@
+,CD_ALUNO_CRIPTO,CD_DISCIPLINA,VL_PERC_ACERTOS,VL_PROFICIENCIA,VL_PROFICIENCIA_ERRO,NOTA,GRUPO,DESCRICAO
+0,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,Procedimentos de Leitura,Localizar informação explícita.
+2,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Localizar informação explícita.
+3,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,Procedimentos de Leitura,Inferir informação em texto verbal.
+5,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Inferir informação em texto verbal.
+6,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0.5,Procedimentos de Leitura,Inferir o sentido da palavra ou expressão.
+8,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Inferir o sentido da palavra ou expressão.
+9,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,Procedimentos de Leitura,Interpretar textos não verbais e textos que articulam elementos verbais e não verbais.
+11,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Interpretar textos não verbais e textos que articulam elementos verbais e não verbais.
+12,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,Procedimentos de Leitura,Identificar o tema ou assunto de um texto.
+14,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Identificar o tema ou assunto de um texto.
+15,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,Procedimentos de Leitura,Distinguir fato de opinião relativa ao fato.
+17,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,Procedimentos de Leitura,Distinguir fato de opinião relativa ao fato.
+18,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,Procedimentos de Leitura,Diferenciar a informação principal das secundárias em um texto.
+20,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0,Procedimentos de Leitura,Diferenciar a informação principal das secundárias em um texto.
+21,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,compreensão textual,Reconhecer gênero discursivo.
+23,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0,compreensão textual,Reconhecer gênero discursivo.
+24,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0.5,compreensão textual,Identificar o propósito comunicativo em diferentes gêneros.
+26,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,compreensão textual,Identificar o propósito comunicativo em diferentes gêneros.
+27,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,compreensão textual,Reconhecer os elementos que compõem uma narrativa e o conflito gerador.
+29,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,compreensão textual,Reconhecer os elementos que compõem uma narrativa e o conflito gerador.
+30,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,relação entre textos,Identificar semelhanças e/ou diferenças de ideias e opiniões na comparação entre textos.
+32,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,relação entre textos,Identificar semelhanças e/ou diferenças de ideias e opiniões na comparação entre textos.
+33,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,relação entre textos,Reconhecer diferentes formas de tratar uma informação na comparação de textos de um mesmo tema.
+35,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0,relação entre textos,Reconhecer diferentes formas de tratar uma informação na comparação de textos de um mesmo tema.
+36,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0.5,coerência/coesão,Reconhecer as relações entre partes de um texto
+38,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,coerência/coesão,Reconhecer as relações entre partes de um texto
+39,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,coerência/coesão,Identificar a tese de um texto.
+41,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,coerência/coesão,Identificar a tese de um texto.
+93321,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0.5,coerência/coesão,Estabelecer relação entre tese e os argumentos oferecidos para sustentá-la.
+93323,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,coerência/coesão,Estabelecer relação entre tese e os argumentos oferecidos para sustentá-la.
+93324,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,coerência/coesão,Reconhecer o sentido das relações lógico-discursivas marcadas por conjunções
+93326,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,coerência/coesão,Reconhecer o sentido das relações lógico-discursivas marcadas por conjunções
+93327,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,coerência/coesão,Reconhecer o sentido do texto e suas partes sem a presença de marcas coesivas
+93329,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0.5,coerência/coesão,Reconhecer o sentido do texto e suas partes sem a presença de marcas coesivas
+186609,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,1,relação entre recursos expressivos,Reconhecer o efeito de sentido decorrente da escolha de palavras
+186611,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,relação entre recursos expressivos,Reconhecer o efeito de sentido decorrente da escolha de palavras
+279891,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,relação entre recursos expressivos,Identificar o efeito de sentido decorrente do uso da pontuação e de outras notações.
+279893,2be98afc86aa7f2,1,88,323.6794698,17.26356033,1,relação entre recursos expressivos,Identificar o efeito de sentido decorrente do uso da pontuação e de outras notações.
+279894,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,relação entre recursos expressivos,Reconhecer o efeito decorrente do emprego de recursos estilísticos e morfossintáticos.
+279896,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0,relação entre recursos expressivos,Reconhecer o efeito decorrente do emprego de recursos estilísticos e morfossintáticos.
+279897,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0,relação entre recursos expressivos,Reconhecer efeitos de humor e ironia.
+279899,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0,relação entre recursos expressivos,Reconhecer efeitos de humor e ironia.
+279900,2be989ffd5f93c2,1,66.67,283.2060674,16.18709111,0.5,variação linguistica,Identificar os níveis de linguagem e/ou as marcas linguísticas que evidenciam locutor e/ou interlocutor 
+279902,2be98afc86aa7f2,1,88,323.6794698,17.26356033,0.5,variação linguistica,Identificar os níveis de linguagem e/ou as marcas linguísticas que evidenciam locutor e/ou interlocutor 
+93316,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Estabelecer relações entre representações fracionárias e decimais dos números racionais.
+93317,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Estabelecer relações entre representações fracionárias e decimais dos números racionais.
+186604,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Resolver problema envolvendo juros simples.
+186605,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Resolver problema envolvendo juros simples.
+279886,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Resolver problema envolvendo juros compostos.
+279887,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Resolver problema envolvendo juros compostos.
+373177,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Fatorar e simplificar expressões algébricas.
+373178,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,1,funcoes,Fatorar e simplificar expressões algébricas.
+466456,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,1,funcoes,Reconhecer a representação algébrica ou gráfica da função polinomial de 1º grau.
+466457,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Reconhecer a representação algébrica ou gráfica da função polinomial de 1º grau.
+559735,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Relacionar as raízes de um polinômio com sua decomposição em fatores do 1º grau.
+559736,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Relacionar as raízes de um polinômio com sua decomposição em fatores do 1º grau.
+653014,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,funcoes,Resolver situação-problema envolvendo o cálculo da probabilidade de um evento.
+653015,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,funcoes,Resolver situação-problema envolvendo o cálculo da probabilidade de um evento.
+746293,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Resolver problemas envolvendo semelhança de figuras planas.
+746294,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Resolver problemas envolvendo semelhança de figuras planas.
+839572,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Resolver situação problema aplicando o Teorema de Pitágoras ou as demais relações métricas no triângulo retângulo.
+839573,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Resolver situação problema aplicando o Teorema de Pitágoras ou as demais relações métricas no triângulo retângulo.
+932851,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Resolver problemas usando as propriedades dos polígonos (soma dos ângulos internos interno de polígonos regulares).
+932852,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Resolver problemas usando as propriedades dos polígonos (soma dos ângulos internos interno de polígonos regulares).
+1026130,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0.5,geometria,Identificar planificações de alguns poliedros e/ou corpos redondos.
+1026131,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Identificar planificações de alguns poliedros e/ou corpos redondos.
+1119409,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Resolver situação-problema envolvendo as razões trigonométricas no triângulo retângulo (seno
+1119410,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0.5,geometria,Resolver situação-problema envolvendo as razões trigonométricas no triângulo retângulo (seno
+1212688,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Calcular a área de um triângulo pelas coordenadas de seus vértices.
+1212689,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Calcular a área de um triângulo pelas coordenadas de seus vértices.
+1305967,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Determinar uma equação da reta a partir de dois pontos dados ou de um ponto e sua inclinação.
+1305968,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0.5,geometria,Determinar uma equação da reta a partir de dois pontos dados ou de um ponto e sua inclinação.
+1399246,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Reconhecer
+1399247,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Reconhecer
+1492525,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Identificar a localização de pontos no plano cartesiano.
+1492526,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Identificar a localização de pontos no plano cartesiano.
+1585804,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,geometria,Interpretar geometricamente os coeficientes da equação de uma reta.
+1585805,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,geometria,Interpretar geometricamente os coeficientes da equação de uma reta.
+1679083,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,medidas,Resolver problema utilizando as relações entre diferentes unidades de medidas de capacidade e de volume.
+1679084,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,medidas,Resolver problema utilizando as relações entre diferentes unidades de medidas de capacidade e de volume.
+1772362,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,medidas,Calcular o perímetro de figuras planas em uma situação problema.
+1772363,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,medidas,Calcular o perímetro de figuras planas em uma situação problema.
+1865641,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,medidas,Resolver problema envolvendo o cálculo de área de figuras planas.
+1865642,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,medidas,Resolver problema envolvendo o cálculo de área de figuras planas.
+1958920,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,medidas,Calcular a área da superfície total de prismas
+1958921,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,medidas,Calcular a área da superfície total de prismas
+2052199,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,1,medidas,Calcular o volume de prismas
+2052200,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,medidas,Calcular o volume de prismas
+2145478,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,1,tratamento da informação,Associar informações apresentadas em listas e/ou tabelas aos gráficos que as representam
+2145479,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,1,tratamento da informação,Associar informações apresentadas em listas e/ou tabelas aos gráficos que as representam
+2238757,2be989ffd5f93c2d1fb49fe2688c6f68b,2,9.52,233.889468,41.41079342,0,tratamento da informação,Resolver problemas envolvendo medidas de tendência central: média
+2238758,2be989ffd5f93c2d1fb49fe2188c0f88a,2,18.18,233.6714321,40.16031437,0,tratamento da informação,Resolver problemas envolvendo medidas de tendência central: média

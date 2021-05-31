@@ -1,0 +1,47 @@
+COD_DISCIPLINA,GRUPO,COD,DESCRICAO 
+1,Procedimentos de Leitura,D001,Localizar informação explícita.
+1,Procedimentos de Leitura,D002,Inferir informação em texto verbal.
+1,Procedimentos de Leitura,D003,Inferir o sentido da palavra ou expressão.
+1,Procedimentos de Leitura,D004,Interpretar textos não verbais e textos que articulam elementos verbais e não verbais.
+1,Procedimentos de Leitura,D005,Identificar o tema ou assunto de um texto.
+1,Procedimentos de Leitura,D006,Distinguir fato de opinião relativa ao fato.
+1,Procedimentos de Leitura,D007,Diferenciar a informação principal das secundárias em um texto.
+1,compreensão textual,D009,Reconhecer gênero discursivo.
+1,compreensão textual,D010,Identificar o propósito comunicativo em diferentes gêneros.
+1,compreensão textual,D011,Reconhecer os elementos que compõem uma narrativa e o conflito gerador.
+1,relação entre textos,D012,Identificar semelhanças e/ou diferenças de ideias e opiniões na comparação entre textos.
+1,relação entre textos,D013,Reconhecer diferentes formas de tratar uma informação na comparação de textos de um mesmo tema.
+1,coerência/coesão,D014,Reconhecer as relações entre partes de um texto
+1,coerência/coesão,D015,Identificar a tese de um texto.
+1,coerência/coesão,D016,Estabelecer relação entre tese e os argumentos oferecidos para sustentá-la.
+1,coerência/coesão,D017,Reconhecer o sentido das relações lógico-discursivas marcadas por conjunções
+1,coerência/coesão,D018,Reconhecer o sentido do texto e suas partes sem a presença de marcas coesivas
+1,relação entre recursos expressivos,D019,Reconhecer o efeito de sentido decorrente da escolha de palavras
+1,relação entre recursos expressivos,D020,Identificar o efeito de sentido decorrente do uso da pontuação e de outras notações.
+1,relação entre recursos expressivos,D021,Reconhecer o efeito decorrente do emprego de recursos estilísticos e morfossintáticos.
+1,relação entre recursos expressivos,D022,Reconhecer efeitos de humor e ironia.
+1,variação linguistica,D023,Identificar os níveis de linguagem e/ou as marcas linguísticas que evidenciam locutor e/ou interlocutor 
+2,funcoes,D016,Estabelecer relações entre representações fracionárias e decimais dos números racionais.
+2,funcoes,D019,Resolver problema envolvendo juros simples.
+2,funcoes,D020,Resolver problema envolvendo juros compostos.
+2,funcoes,D024,Fatorar e simplificar expressões algébricas.
+2,funcoes,D028,Reconhecer a representação algébrica ou gráfica da função polinomial de 1º grau.
+2,funcoes,D040,Relacionar as raízes de um polinômio com sua decomposição em fatores do 1º grau.
+2,funcoes,D042,Resolver situação-problema envolvendo o cálculo da probabilidade de um evento.
+2,geometria,D049,Resolver problemas envolvendo semelhança de figuras planas.
+2,geometria,D050,Resolver situação problema aplicando o Teorema de Pitágoras ou as demais relações métricas no triângulo retângulo.
+2,geometria,D051,Resolver problemas usando as propriedades dos polígonos (soma dos ângulos internos interno de polígonos regulares).
+2,geometria,D052,Identificar planificações de alguns poliedros e/ou corpos redondos.
+2,geometria,D053,Resolver situação-problema envolvendo as razões trigonométricas no triângulo retângulo (seno
+2,geometria,D054,Calcular a área de um triângulo pelas coordenadas de seus vértices.
+2,geometria,D055,Determinar uma equação da reta a partir de dois pontos dados ou de um ponto e sua inclinação.
+2,geometria,D056,Reconhecer
+2,geometria,D057,Identificar a localização de pontos no plano cartesiano.
+2,geometria,D058,Interpretar geometricamente os coeficientes da equação de uma reta.
+2,medidas,D064,Resolver problema utilizando as relações entre diferentes unidades de medidas de capacidade e de volume.
+2,medidas,D065,Calcular o perímetro de figuras planas em uma situação problema.
+2,medidas,D067,Resolver problema envolvendo o cálculo de área de figuras planas.
+2,medidas,D071,Calcular a área da superfície total de prismas
+2,medidas,D072,Calcular o volume de prismas
+2,tratamento da informação,D076,Associar informações apresentadas em listas e/ou tabelas aos gráficos que as representam
+2,tratamento da informação,D078,Resolver problemas envolvendo medidas de tendência central: média

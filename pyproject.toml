@@ -10,10 +10,14 @@ streamlit = "0.82.0"
 pandas = "1.1.5"
 pydeck = "0.6.2"
 pandarallel = "1.5.2"
+plotly = "4.14.3"
+notebook = ">=5.3"
+ipywidgets = ">=7.5"
 
 [tool.poetry.dev-dependencies]
 flake8 = "3.9.2"
 autopep8 = "1.5.7"
+jupyterlab = "^3.0.16"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
