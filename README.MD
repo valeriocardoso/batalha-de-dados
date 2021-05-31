@@ -26,14 +26,14 @@
 ![Jornada](https://github.com/valeriocardoso/batalha-de-dados/blob/main/imagens/10.png)
 
 ### Jornada do Professor
-![Professor](https://www.youtube.com/watch?v=zr9oeRI0SeE)
+[Jornada do Professor](https://www.youtube.com/watch?v=zr9oeRI0SeE)
 
 ### Nosso Time
 ![Time](https://github.com/valeriocardoso/batalha-de-dados/blob/main/imagens/11.png)
 
 
 ### Pitch
-![Pitch](https://www.youtube.com/watch?v=Rs_SBYf6Ja4o)
+[Pitch](https://www.youtube.com/watch?v=Rs_SBYf6Ja4o)
 
 
 ## Streamlit
